@@ -7,3 +7,5 @@ import datetime
 today = datetime.datetime.today()
 print(today)
 print(today.year)
+
+# 깃 이렇게 하면 되나?
