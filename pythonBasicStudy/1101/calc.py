@@ -9,3 +9,6 @@ print(today)
 print(today.year)
 
 # 깃 이렇게 하면 되나?
+
+#이게 완료 된건가? 역시 난 gui의 slave?
+
