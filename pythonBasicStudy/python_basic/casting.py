@@ -32,5 +32,5 @@ print(type(userInput))# input으로 받는 것은 모두 str임
 
 secondInput = int(input('숫자만 입력하세요'))
 print(secondInput)
-pirnt(type(secondInput))
+print(type(secondInput))
 

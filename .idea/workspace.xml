@@ -4,20 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5eb922d4-6117-428b-b698-58f4bfd113b8" name="Changes" comment="seconde commit">
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/algorithm/0002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/algorithm/0003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/algorithm/0004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/algorithm_practice/0001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_basic/calc2.py" afterDir="false" />
+    <list default="true" id="5eb922d4-6117-428b-b698-58f4bfd113b8" name="Changes" comment="1102 회사에서">
+      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/data_structure/0003(while1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/data_structure/0004(while2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/data_structure/0005(while3).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_basic/operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_basic/operator1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/git python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/1026-1/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasicStudy/python_basic/hello.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/1101/calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasicStudy/python_basic/calc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/1101/casting.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasicStudy/python_basic/casting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/1101/print.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasicStudy/python_basic/print.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/algorithm/0001.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasicStudy/algorithm/0001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/check/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice/test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/data_structure/data_struc1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasicStudy/data_structure/0001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/python_basic/casting.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasicStudy/python_basic/casting.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +38,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/git python&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/git python",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\git python\pythonBasicStudy\python_basic_practice" />
@@ -140,6 +136,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="operator" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="git python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBasicStudy/python_basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_basic/operator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -157,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667290297724</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1102 회사에서">
+      <created>1667375817484</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667375817484</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +197,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="seconde commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="seconde commit" />
+    <MESSAGE value="1102 회사에서" />
+    <option name="LAST_COMMIT_MESSAGE" value="1102 회사에서" />
   </component>
 </project>
