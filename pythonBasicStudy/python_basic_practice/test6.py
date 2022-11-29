@@ -18,26 +18,29 @@ cnt100=0
 cnt10=0
 
 if cost > price:
-    while True:
-        for i in list:
-            temp = price % i
-            if temp > 50000:
-                cnt50000+=1
-            elif temp > 10000:
-                cnt10000 +=1
-            elif  temp > 5000:
-                cnt5000 +=1
-            elif  temp > 1000:
-                cnt1000 +=1
-            elif  temp > 500:
-                cnt500 +=1
-            elif  temp > 100:
-                cnt100 +=1
-            elif  temp > 10:
-                cnt10 +=1
+    for i in list:
+        temp = price / i
+        if temp >= 50000:
+            cnt50000+=1
+        elif temp >= 10000:
+            cnt10000 +=1
+        elif  temp >= 5000:
+            cnt5000 +=1
+        elif  temp >= 1000:
+            cnt1000 +=1
+        elif  temp >= 500:
+            cnt500 +=1
+        elif  temp >= 100:
+            cnt100 +=1
+        elif  temp >= 10:
+            cnt10 +=1
 
 print('거스름돈: {}, 5만원 : {}, 1만원:{}, 5천원:{}, 1천원:{}, 500원:{}, 100원:{}, 10원:{}'
       .format(change,cnt50000, cnt10000, cnt5000, cnt1000, cnt500, cnt100, cnt10))
+
+#-> 결과에 대한 오류가 어디서 나온 오류인지 재고
+
+
 
 
 
