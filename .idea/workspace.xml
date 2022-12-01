@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5eb922d4-6117-428b-b698-58f4bfd113b8" name="Changes" comment="1109 회사에서">
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice/test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice/test4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice/test5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice/test6.py" afterDir="false" />
+    <list default="true" id="5eb922d4-6117-428b-b698-58f4bfd113b8" name="Changes" comment="1129 회사에서">
+      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice/test10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice/test11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice/test12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice/test9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice/test4.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice/test4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice/test8.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice/test8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,21 +37,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/git python",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "settings.editor.splitter.proportion": "0.3058104"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/git python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.3058104&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\git python\pythonBasicStudy\python_basic_practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test6">
+  <component name="RunManager" selected="Python.test12">
     <configuration name="0001" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="git python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,27 +136,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="double_repeat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="git python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBasicStudy/python_basic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_basic/double_repeat.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="operator" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="git python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,7 +169,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice/test3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice/test10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="git python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice/test11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="git python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice/test12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,7 +241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,28 +253,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice/test5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="git python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice/test6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_basic_practice/test9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,11 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test6" />
-        <item itemvalue="Python.test5" />
+        <item itemvalue="Python.test12" />
         <item itemvalue="Python.test4" />
-        <item itemvalue="Python.test3" />
-        <item itemvalue="Python.double_repeat" />
+        <item itemvalue="Python.test11" />
+        <item itemvalue="Python.test10" />
+        <item itemvalue="Python.test9" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +323,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667979112299</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1109 회사에서">
+      <created>1668588530728</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668588530728</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1129 회사에서">
+      <created>1669700426275</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669700426275</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -341,6 +357,7 @@
     <MESSAGE value="1104 회사에서" />
     <MESSAGE value="1108 회사에서" />
     <MESSAGE value="1109 회사에서" />
-    <option name="LAST_COMMIT_MESSAGE" value="1109 회사에서" />
+    <MESSAGE value="1129 회사에서" />
+    <option name="LAST_COMMIT_MESSAGE" value="1129 회사에서" />
   </component>
 </project>
