@@ -34,7 +34,7 @@ print('-' * 25, 'calculator 함수 만들기', '-' * 25)
 
 #강사 코드
 def cal(x, y, oper):
-
+    #함수 선언
     def add():
         print('x+y ={}'.format(x + y))
     def sub():
@@ -43,7 +43,8 @@ def cal(x, y, oper):
         print('x*y ={}'.format(x * y))
     def div():
         print('x%y ={}'.format(x / y))
-        
+
+    #조건에 따른 함수 호출
     if oper ==1:
         add()
     elif oper==2:
@@ -53,6 +54,7 @@ def cal(x, y, oper):
     elif oper == 4:
         div()
 
+#선언된 한수를 반복문을 통해서 실행
 while True:
     oper = int(input('계산방법 입력 : 1. + 2. - 3. * 4. %  5. 종료'))
 
@@ -62,4 +64,5 @@ while True:
     elif oper != 5:
         x = int(input('x값 입력:'))
         y = int(input('y값 입력:'))
+        #중첩함수 중 내부 함수를 감싸고 있는 함수를 매개변수와 함께 호출
         cal(x, y, oper)
