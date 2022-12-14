@@ -1,4 +1,4 @@
-#파이썬에서 자주 사용하는 모듈 : math / random / tiem 모듈
+#파이썬에서 자주 사용하는 모듈 : math / random / time 모듈
 
 import random
 

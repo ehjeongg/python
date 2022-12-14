@@ -46,9 +46,12 @@ print('-' * 60)
 def printFruits(*fruits):
     print(type(fruits))
     for i in fruits:
-        print(i)
-printNum('과일', '사과', '바나나')
+        print(i, end='')
+# printNum('과일', '사과', '바나나')
+f1 = input('과일입력1')
+f2 = input('과일입력2')
 
+printFruits(f1, f2)
 
 print('-' * 60)
 

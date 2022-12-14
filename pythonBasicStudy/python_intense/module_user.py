@@ -23,6 +23,7 @@ def div(x, y):
 def rever(str):
     reversedString = '' #rever 함수에서 사용할 변수 선언
 
+    #변수는 반복문 안에서 문자열을 순서대로 찾아가고 / 리스트에는 그 반대로 문자가 쌓이게 된다
     for i in str:
         reversedString = i + reversedString
         #print(reversedString)

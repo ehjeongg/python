@@ -15,7 +15,7 @@ for path in sys.path :
 #venv -> Lib -> site-packages 폴더로 옮기면 어느 디렉토리에서든지 원하는 모듈에 접근가능
 
 
-#factorDecimal 패키지(폴더)를 site-packages로 옮겨서 다른 디렉토리 안에서도 사용할 수 있게 만들어음
+#site_pac 패키지(폴더)를 site-packages로 옮겨서 다른 디렉토리 안에서도 사용할 수 있게 만들어음
 
 
 #오류 발생된 부분
