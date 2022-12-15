@@ -5,22 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5eb922d4-6117-428b-b698-58f4bfd113b8" name="Changes" comment="1213 회사-오후">
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/__init__2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/__init__3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/deepShallowCopy1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/deepShallowCopy2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/inheritance1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/inheritance2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/objectMemory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/objectOriented1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/objectOriented2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/abstractionClass1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/abstractionClass2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/exception1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/exception2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/exceptionClass1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/exceptionClass2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/inheritance3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/overriding.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/python_intense/function3.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/function3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/python_intense/module_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/module_user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/python_intense/outer_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/outer_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/python_intense/package.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/package.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/venv/Lib/site-packages/site_pac/divisor.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasicStudy/venv/Lib/site-packages/site_pac/divisor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/python_intense/__init__3.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/__init__3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +57,7 @@
       <recent name="E:\git python\pythonBasicStudy\python_basic_practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.__init__3">
+  <component name="RunManager" selected="Python.exceptionClass2">
     <configuration name="0001" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="git python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="adf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,49 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_intense/__init__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="__init__2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="git python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBasicStudy/python_intense" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_intense/__init__2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="__init__3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="git python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBasicStudy/python_intense" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_intense/__init__3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_intense/adf.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="deepShallowCopy1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exception2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -222,7 +175,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_intense/deepShallowCopy1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_intense/exception2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="objectMemory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exceptionClass1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -243,7 +196,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_intense/objectMemory.py" />
+      <option name="SCRIPT_NAME" value="E:\git python\pythonBasicStudy\python_intense\exceptionClass1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exceptionClass2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="git python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBasicStudy/python_intense" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_intense/exceptionClass2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="finally" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="git python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBasicStudy/python_intense" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_intense/finally.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,11 +270,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.__init__3" />
-        <item itemvalue="Python.__init__2" />
-        <item itemvalue="Python.__init__" />
-        <item itemvalue="Python.objectMemory" />
-        <item itemvalue="Python.deepShallowCopy1 (1)" />
+        <item itemvalue="Python.exceptionClass2" />
+        <item itemvalue="Python.exceptionClass1" />
+        <item itemvalue="Python.finally" />
+        <item itemvalue="Python.adf" />
+        <item itemvalue="Python.exception2" />
       </list>
     </recent_temporary>
   </component>
