@@ -1,4 +1,4 @@
-#enumerate() 함수를 이용하면 아이템을 열거할 수 있음
+#enumerate() 함수를 이용하면 인덱스와 아이템(요소)을 열거할 수 있음
 
 sports = [1, 'a', '34ddf', 'adf']
 for i in range(len(sports)):
