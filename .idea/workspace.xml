@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5eb922d4-6117-428b-b698-58f4bfd113b8" name="Changes" comment="1216 회사-오후">
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense_practice/function1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense_practice/function2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense_practice/function3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense_practice/function4.py" afterDir="false" />
+    <list default="true" id="5eb922d4-6117-428b-b698-58f4bfd113b8" name="Changes" comment="1220 회사-임시커밋">
+      <change afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense_practice/function4-1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/python_intense/qwer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/python_intense/readlines()_readline().py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense/readlines()_readline().py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/python_intense_practice/prac1_module.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/python_intense_practice/prac2_action.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/python_intense_practice/function2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense_practice/function2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/python_intense_practice/function3.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense_practice/function3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonBasicStudy/python_intense_practice/function4.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasicStudy/python_intense_practice/function4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +51,7 @@
       <recent name="E:\git python\pythonBasicStudy\python_basic_practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.function2">
+  <component name="RunManager" selected="Python.function4-1">
     <configuration name="0001" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="git python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,6 +178,69 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="function3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="git python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBasicStudy/python_intense_practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_intense_practice/function3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="function4-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="git python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBasicStudy/python_intense_practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_intense_practice/function4-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="function4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="git python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBasicStudy/python_intense_practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_intense_practice/function4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="operator" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="git python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,76 +262,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="readlines()_readline()" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="git python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBasicStudy/python_intense" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_intense/readlines()_readline().py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="with_as" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="git python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBasicStudy/python_intense" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_intense/with_as.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="writelines()" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="git python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBasicStudy/python_intense" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasicStudy/python_intense/writelines().py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.function4-1" />
+        <item itemvalue="Python.function4" />
+        <item itemvalue="Python.function3" />
         <item itemvalue="Python.function2" />
         <item itemvalue="Python.function1" />
-        <item itemvalue="Python.readlines()_readline()" />
-        <item itemvalue="Python.writelines()" />
-        <item itemvalue="Python.with_as" />
       </list>
     </recent_temporary>
   </component>
@@ -418,7 +414,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671180343261</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="1220 회사-임시커밋">
+      <created>1671522183801</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1671522183801</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -450,7 +453,8 @@
     <MESSAGE value="1213 회사-오후" />
     <MESSAGE value="1215 회사-오후" />
     <MESSAGE value="1216 회사-오후" />
-    <option name="LAST_COMMIT_MESSAGE" value="1216 회사-오후" />
+    <MESSAGE value="1220 회사-임시커밋" />
+    <option name="LAST_COMMIT_MESSAGE" value="1220 회사-임시커밋" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

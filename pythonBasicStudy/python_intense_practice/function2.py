@@ -1,3 +1,6 @@
+#파이썬 중급 41강
+
+
 # #시간 / 거리 입력시 이동거리 출력
 # #거리 / 속력 입력시 이동시간 출력 하는 프로그램
 # -> 프로그래밍 하기전에 기능 부터 만들고 나중에 입력받기
@@ -8,11 +11,11 @@ def distance(h, m, s): #시간, 분, 속력입력(거리 = 속력 x 시간)
     return s * (h + m/60) #속력 x 시간  // 분은 60으로 나눠서 시간과 단위를 맞춰줌
 
 def gettime(s, d):
-    time = d / s
+    time = d / s #시간은 거리 % 속력
     print(f'time : {time}')
-    h = int(time)
-    m = int((time - h ) * 100 * 60 /100)
-    return [h,m] #다른곳에서
+    h = int(time) #시간
+    m = int((time - h ) * 100 * 60 /100) #어떤 의미인지
+    return [h,m] #리스트 형태로 뽑아서 어디에 쓰려구
 
 
 #강사 예시 코드
@@ -35,7 +38,7 @@ def getTime(speed, distance):
     return [h, m]
 
 
-def convertFloatToMinute(f):
+def convertFloatToMinute(f): #float으로 받은것을 minute으로 변경하는 이유는?
     return int(f * 100 * 60 / 100)
 
 
