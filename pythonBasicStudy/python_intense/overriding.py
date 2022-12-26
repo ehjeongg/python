@@ -43,3 +43,4 @@ print()
 newTri = NewTri(1,2)
 newTri.getArea()
 newTri.print()
+
